@@ -3,3 +3,5 @@
 # Versão 3
 mutate()
 rename()
+select()
+# Versão 4 - alteração remota
